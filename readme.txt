@@ -3,3 +3,4 @@ Git is free software distributed uder te GPL.
 Git has a mutable index called stage.
 Git traces changes of files.
 Git first in github.
+Creating a new branch is quick.
